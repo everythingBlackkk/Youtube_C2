@@ -1,4 +1,8 @@
 # YouTube C2 Server
+![ph1](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C4.png?raw=true)
+
+
+![ph2](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C2.png?raw=true)
 
 ## Overview
 
@@ -36,6 +40,10 @@ Before using the tool, you need to:
 ```bash
 python NoTube.py
 ```
+
+![ph3](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C1.png?raw=true)
+
+
 
 3. The tool will monitor comments on the specified YouTube video
 4. To execute a command, post a comment on the video with the format:
