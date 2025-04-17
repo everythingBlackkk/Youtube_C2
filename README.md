@@ -2,7 +2,7 @@
 ![ph1](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C4.png?raw=true)
 
 
-![ph2](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C2222.png?raw=true)
+![ph2](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/End.png?raw=true)
 
 
 # Full Writeups : [C2 Server Via YouTube](https://medium.com/@snpxblack2006/c2-server-via-youtube-0564f023bc3e)
