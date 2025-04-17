@@ -42,7 +42,7 @@ Before using the tool, you need to:
 > In the **OAuth client settings**:
 > 
 > - The **Redirect URI** must exactly match the one used in the code:  
->   `http://localhost:8080/(Edited)`
+>   `http://localhost:8080/`
 
 
 ## Usage
