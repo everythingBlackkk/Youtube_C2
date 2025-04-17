@@ -1,9 +1,8 @@
 # YouTube C2 Server
-![ph1](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C4.png?raw=true)
-
 
 ![ph2](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/End.png?raw=true)
 
+![ph1](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C2222.png?raw=true)
 
 # Full Writeups : [C2 Server Via YouTube](https://medium.com/@snpxblack2006/c2-server-via-youtube-0564f023bc3e)
 ## Overview
@@ -33,6 +32,18 @@ Before using the tool, you need to:
 4. Download the `client_secrets.json` file
 5. Set your YouTube API key and video ID in the script
 6. Generate an RSA key pair and update the public key in the script
+
+> **Note:** In the **OAuth Consent Screen**:
+> 
+> - Add the scope: `https://www.googleapis.com/auth/youtube.force-ssl`
+> - Enable either **Testing** or **Publishing** mode depending on the current stage.
+> - Add your email under **Test users**
+> 
+> In the **OAuth client settings**:
+> 
+> - The **Redirect URI** must exactly match the one used in the code:  
+>   `http://localhost:8080/(Edited)`
+
 
 ## Usage
 
