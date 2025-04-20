@@ -1,5 +1,9 @@
 # YouTube C2 Server
-> It's just a POC, not intended for practical use.
+
+
+> ⚠️ It's just a POC, not intended for practical use.
+
+
 ![ph2](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/End.png?raw=true)
 
 ![ph1](https://github.com/everythingBlackkk/Youtube_C2/blob/main/Media/C2222.png?raw=true)
