@@ -1,3 +1,4 @@
+# It's just a POC, not intended for practical use.
 from googleapiclient.discovery import build
 import base64
 import os
